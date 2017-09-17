@@ -1,0 +1,25 @@
+{
+  "name": "save-tumblr-history",
+  "version": "1.0.0",
+  "description": "Node app to save your Tumblr post history and images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minaharker86/save-tumblr-history.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minaharker86/save-tumblr-history/issues"
+  },
+  "homepage": "https://github.com/minaharker86/save-tumblr-history#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "inquirer": "^3.2.3",
+    "lodash": "^4.17.4",
+    "tumblr.js": "^1.1.1"
+  }
+}
